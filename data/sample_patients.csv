@@ -1,0 +1,61 @@
+patient_id,age,sex,icd10_code,diagnosis,primary_medication,admission_date,discharge_date,length_of_stay_days,systolic_bp,diastolic_bp,hba1c_pct,egfr,bmi,smoking_status,readmitted_30d
+P0001,35,M,J44.9,COPD,Tiotropium,2026-07-09,2026-07-14,5,141,99,5.1,102,20.9,Never,No
+P0002,55,M,N18.3,Chronic kidney disease stage 3,Lisinopril,2026-01-08,2026-01-10,2,137,99,5.1,49,19.5,Former,No
+P0003,56,F,I10,Hypertension,Amlodipine,2026-07-27,2026-07-28,1,145,86,5.8,76,24.3,Never,No
+P0004,52,M,E11.9,Type 2 diabetes,Metformin,2026-04-02,2026-04-08,6,143,89,10.6,101,27.7,Never,No
+P0005,46,F,N18.3,Chronic kidney disease stage 3,Lisinopril,2026-05-28,2026-06-01,4,118,79,4.9,37,33.7,Never,No
+P0006,45,F,I50.9,Heart failure,Furosemide,2026-06-12,2026-06-18,6,130,69,5.3,68,31.7,Current,No
+P0007,38,M,J44.9,COPD,Tiotropium,2026-02-11,2026-02-19,8,158,85,5.2,95,32.1,Never,Yes
+P0008,80,M,I10,Hypertension,Amlodipine,2026-07-26,2026-08-01,6,176,85,5.2,68,36.3,Never,No
+P0009,59,F,J44.9,COPD,Tiotropium,2026-08-15,2026-08-26,11,168,81,5.0,63,23.7,Current,No
+P0010,55,F,N18.3,Chronic kidney disease stage 3,Lisinopril,2026-04-03,2026-04-07,4,127,74,5.5,32,33.4,Current,No
+P0011,78,F,I10,Hypertension,Amlodipine,2026-06-02,2026-06-04,2,174,65,5.3,84,29.1,Current,No
+P0012,35,F,J44.9,COPD,Tiotropium,2026-07-16,2026-07-27,11,153,81,5.0,82,22.0,Current,Yes
+P0013,60,M,I10,Hypertension,Amlodipine,2026-08-11,2026-08-22,11,163,75,6.0,87,30.6,Current,No
+P0014,86,M,N18.3,Chronic kidney disease stage 3,Lisinopril,2026-06-03,2026-06-09,6,172,84,4.8,59,25.9,Never,No
+P0015,43,M,E11.9,Type 2 diabetes,Metformin,2026-01-22,2026-02-03,12,172,95,10.7,103,29.1,Current,No
+P0016,44,F,I10,Hypertension,Amlodipine,2026-02-24,2026-03-05,9,150,93,5.8,80,37.9,Current,No
+P0017,35,M,I50.9,Heart failure,Furosemide,2026-02-27,2026-03-01,2,153,69,4.8,90,23.4,Current,Yes
+P0018,31,M,J44.9,COPD,Tiotropium,2026-01-18,2026-01-19,1,152,99,4.9,70,24.3,Never,No
+P0019,87,F,J44.9,COPD,Tiotropium,2026-03-04,2026-03-12,8,162,91,5.1,61,31.5,Former,No
+P0020,31,M,J44.9,COPD,Tiotropium,2026-01-16,2026-01-23,7,153,93,5.9,61,23.7,Never,Yes
+P0021,39,F,I50.9,Heart failure,Furosemide,2026-04-29,2026-05-03,4,119,99,5.4,110,35.3,Never,Yes
+P0022,87,M,E11.9,Type 2 diabetes,Metformin,2026-02-12,2026-02-19,7,172,89,9.2,110,26.6,Never,Yes
+P0023,44,F,I50.9,Heart failure,Furosemide,2026-03-15,2026-03-22,7,172,99,5.0,73,23.1,Never,Yes
+P0024,48,M,J44.9,COPD,Tiotropium,2026-01-13,2026-01-23,10,171,97,5.5,109,29.1,Never,Yes
+P0025,32,M,I10,Hypertension,Amlodipine,2026-06-22,2026-06-26,4,176,70,5.0,91,23.7,Former,No
+P0026,65,F,J44.9,COPD,Tiotropium,2026-08-28,2026-09-02,5,136,84,5.7,75,23.5,Former,No
+P0027,87,M,J45.909,Asthma,Salbutamol,2026-01-03,2026-01-11,8,122,87,4.9,68,28.6,Never,No
+P0028,51,F,I10,Hypertension,Amlodipine,2026-02-10,2026-02-18,8,163,100,5.7,106,31.4,Former,Yes
+P0029,34,M,J44.9,COPD,Tiotropium,2026-03-09,2026-03-11,2,123,86,5.8,64,24.2,Never,No
+P0030,68,F,J44.9,COPD,Tiotropium,2026-05-10,2026-05-18,8,142,82,6.1,109,20.0,Never,No
+P0031,49,M,E11.9,Type 2 diabetes,Metformin,2026-06-13,2026-06-18,5,130,72,10.3,90,32.4,Never,No
+P0032,85,M,J44.9,COPD,Tiotropium,2026-05-20,2026-05-21,1,157,88,5.6,64,27.2,Never,Yes
+P0033,41,M,J45.909,Asthma,Salbutamol,2026-06-20,2026-06-22,2,155,74,5.9,110,26.7,Never,No
+P0034,79,M,I10,Hypertension,Amlodipine,2026-08-14,2026-08-21,7,128,80,5.1,76,33.9,Former,No
+P0035,78,M,I10,Hypertension,Amlodipine,2026-04-08,2026-04-09,1,185,79,5.1,107,36.5,Never,No
+P0036,70,M,E11.9,Type 2 diabetes,Metformin,2026-04-13,2026-04-19,6,145,90,10.9,104,24.3,Current,No
+P0037,49,M,N18.3,Chronic kidney disease stage 3,Lisinopril,2026-01-30,2026-02-04,5,132,87,5.6,38,19.7,Current,No
+P0038,55,M,J45.909,Asthma,Salbutamol,2026-04-09,2026-04-19,10,134,99,5.2,100,27.3,Current,No
+P0039,88,M,J44.9,COPD,Tiotropium,2026-04-04,2026-04-11,7,118,72,6.1,76,30.8,Current,No
+P0040,60,F,J45.909,Asthma,Salbutamol,2026-06-20,2026-06-27,7,151,89,5.4,73,29.5,Current,No
+P0041,85,M,J44.9,COPD,Tiotropium,2026-06-07,2026-06-17,10,148,92,5.4,108,19.0,Current,Yes
+P0042,69,F,N18.3,Chronic kidney disease stage 3,Lisinopril,2026-04-30,2026-05-08,8,166,75,5.7,46,28.0,Current,No
+P0043,46,F,E11.9,Type 2 diabetes,Metformin,2026-01-24,2026-01-28,4,149,95,8.0,67,21.8,Current,Yes
+P0044,57,F,E11.9,Type 2 diabetes,Metformin,2026-08-15,2026-08-26,11,134,65,10.2,79,28.4,Never,No
+P0045,42,M,I50.9,Heart failure,Furosemide,2026-07-25,2026-08-06,12,169,73,4.9,70,36.4,Former,Yes
+P0046,61,F,J44.9,COPD,Tiotropium,2026-07-13,2026-07-21,8,174,95,5.4,90,27.5,Former,Yes
+P0047,76,M,J45.909,Asthma,Salbutamol,2026-08-04,2026-08-15,11,145,93,5.9,88,28.2,Never,No
+P0048,46,M,J44.9,COPD,Tiotropium,2026-03-11,2026-03-17,6,150,74,6.1,60,21.6,Current,Yes
+P0049,32,F,I10,Hypertension,Amlodipine,2026-04-15,2026-04-21,6,184,66,5.4,68,34.8,Current,No
+P0050,58,M,I50.9,Heart failure,Furosemide,2026-04-01,2026-04-06,5,159,99,6.0,108,27.0,Current,No
+P0051,59,M,I10,Hypertension,Amlodipine,2026-03-11,2026-03-18,7,187,75,4.8,76,31.7,Former,No
+P0052,67,M,I10,Hypertension,Amlodipine,2026-08-21,2026-08-28,7,128,68,4.9,82,21.6,Former,No
+P0053,48,M,I50.9,Heart failure,Furosemide,2026-04-27,2026-05-03,6,153,91,5.9,79,24.3,Former,No
+P0054,58,M,E11.9,Type 2 diabetes,Metformin,2026-07-11,2026-07-20,9,116,67,11.5,77,23.3,Never,Yes
+P0055,40,M,I10,Hypertension,Amlodipine,2026-06-09,2026-06-12,3,155,94,5.0,97,21.2,Current,No
+P0056,77,F,J45.909,Asthma,Salbutamol,2026-02-12,2026-02-22,10,124,66,5.9,65,37.3,Former,Yes
+P0057,71,F,N18.3,Chronic kidney disease stage 3,Lisinopril,2026-04-12,2026-04-24,12,135,84,4.9,52,34.8,Current,No
+P0058,79,M,N18.3,Chronic kidney disease stage 3,Lisinopril,2026-07-23,2026-08-02,10,115,86,5.3,43,31.6,Never,Yes
+P0059,80,F,I50.9,Heart failure,Furosemide,2026-01-28,2026-02-04,7,156,76,5.7,108,27.7,Current,Yes
+P0060,69,F,N18.3,Chronic kidney disease stage 3,Lisinopril,2026-06-07,2026-06-16,9,171,80,5.5,56,32.9,Never,No
